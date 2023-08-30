@@ -3,7 +3,7 @@ I am a Certified GRC and Privacy specialist, Systems Thinker, Closet Philosopher
 
 ### My short and medium term goals are:
 - All things .NET and C#.
-- Preparing for my Snowflake Pro Certification and learning about Data Vault 2.0 from Data Vault Allaince and Daniel Linstedt's book.
+- Preparing for my Snowflake Pro Certification and learning about Data Vault 2.0 from Data Vault Alliance and Daniel Linstedt's book.
 - Understanding and developing my Graph DB skills using the excellent resources at Neo4J GraphAcademy.
 - Working my way through DataCamp's Data Engineering certification.
 - Executing on some of my product ideas with my new and refreshed skills.
