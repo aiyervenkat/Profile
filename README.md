@@ -2,9 +2,10 @@
 I am a Certified GRC and Privacy specialist, Systems Thinker, Closet Philosopher, and Software Engineer
 
 ### My short and medium term goals are:
-- Refreshing my skills with all things .NET and C#.
-- Learning all about Snowflake and Data Vault 2.0.
+- All things .NET and C#.
+- Preparing for my Snowflake Pro Certification and learning about Data Vault 2.0 from Data Vault Allaince and Daniel Linstedt's book.
 - Understanding and developing my Graph DB skills using the excellent resources at Neo4J GraphAcademy.
+- Working my way through DataCamp's Data Engineering certification.
 - Executing on some of my product ideas with my new and refreshed skills.
 
 ## My Tech Skillset
